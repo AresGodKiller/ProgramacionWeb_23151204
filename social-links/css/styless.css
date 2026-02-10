@@ -81,5 +81,5 @@ color: aliceblue;
     cursor: pointer;
     background-color: greenyellow;
     color: black;
-    transition: 1s ease-in-out;
+    transition: 0.5s ease-in-out;
 }
