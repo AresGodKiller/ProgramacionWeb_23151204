@@ -2,8 +2,8 @@
 
 ---
 
-- Nombre:
-- Número de Control:
+- Nombre: Eduardo Cadengo López
+- Número de Control: 23151204
 
 ---
 
