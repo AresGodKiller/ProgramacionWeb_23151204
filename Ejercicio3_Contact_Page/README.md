@@ -20,8 +20,7 @@ La pagina incluye un encabezado, un icono representativo y un formulario organiz
 ---
 
 ## 🔗 Enlace al proyecto
-Repositorio en GitHub: https://github.com/AresGodKiller/ProgramacionWeb_23151204/tree/main/Ejercicio2_Simple_Article_Listing
-
+Repositorio en GitHub: https://github.com/AresGodKiller/ProgramacionWeb_23151204/tree/main/Ejercicio3_Contact_Page
 
 ---
 
