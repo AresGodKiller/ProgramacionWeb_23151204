@@ -20,7 +20,7 @@ También se aplicaron sombras y estilos básicos para que la página se vea orde
 
 ## 🔗 Enlace al proyecto
 Repositorio en GitHub: https://github.com/AresGodKiller/ProgramacionWeb_23151204/tree/main/Ejercicio1_Newsletter 
-Deploy: [Pega aquí el deploy de GitHub Pages]
+
 ---
 
 ## 📝 Reflexión
