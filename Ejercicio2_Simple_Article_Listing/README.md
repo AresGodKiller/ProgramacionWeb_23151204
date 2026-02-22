@@ -8,13 +8,14 @@
 ---
 
 ## 📌 Descripción
-Este proyecto es una página web sencilla donde los usuarios pueden suscribirse a un boletín.
-También se aplicaron sombras y estilos básicos para que la página se vea ordenada y agradable, similar al diseño del archivo proporcionado.
+En este proyecto desarrollé una página web que muestra un listado de artículos usando HTML y CSS.
+El objetivo fue practicar cómo estructurar contenido con la etiqueta <article> y cómo organizar el diseño usando Flexbox para lograr una página limpia, ordenada y responsiva.
+La página incluye un título principal, un separador y una lista de artículos con su imagen, título y fecha. Todo el contenido está alineado y espaciado para que se parezca al diseño dado.
 ---
 
 ## 🚀 Tecnologías utilizadas
-- HTML – Para crear la estructura de la página.
-- CSS – Para darle estilo, colores, tamaños, espaciados y sombras.
+- HTML – Para crear la estructura de la página y organizar los artículos.
+- CSS – Para dar estilo al texto, imágenes, espaciado, colores y diseño responsivo.
 
 ---
 
@@ -24,6 +25,6 @@ Repositorio en GitHub: https://github.com/AresGodKiller/ProgramacionWeb_23151204
 ---
 
 ## 📝 Reflexión
-En este ejercicio aprendí a organizar mejor el código HTML y a aplicar estilos usando CSS.
-Pude practicar el uso de inputs, botones, sombras y alineación de elementos.
-Uno de los retos fue lograr que el diseño se pareciera a la imagen del ejemplo, pero ajustando colores, tamaños y espacios lo pude resolver.
+En esta actividad aprendí cómo usar Flexbox para acomodar elementos de forma más flexible y responsiva.
+También practiqué cómo usar la etiqueta <article> para dividir el contenido de manera clara y ordenada.
+Uno de los retos fue lograr que la estructura se pareciera al diseño del ejemplo y que todo estuviera centrado correctamente, pero ajustando el gap, flex-direction y los tamaños de las imágenes lo pude resolver.
