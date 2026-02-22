@@ -20,7 +20,8 @@ La página incluye un título principal, un separador y una lista de artículos 
 ---
 
 ## 🔗 Enlace al proyecto
-Repositorio en GitHub: https://github.com/AresGodKiller/ProgramacionWeb_23151204/tree/main/Ejercicio1_Newsletter 
+Repositorio en GitHub: https://github.com/AresGodKiller/ProgramacionWeb_23151204/tree/main/Ejercicio2_Simple_Article_Listing
+
 
 ---
 
