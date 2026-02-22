@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Contact</title>
+  <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <main class="page">
+    <a class="brand" href="#">
+      <img class="brand-icon" src="images/logo.svg" alt="brand-icon">
+     
+    </a>
+
+    <header class="hero">
+      <h1 class="title">Interested in our business pricing?</h1>
+      <p class="subtitle">Fill out the form to view details and we’ll contact you as soon as possible.</p>
+    </header>
+
+   
+    <section class="card">
+  <form class="form">
+    <div class="fieldhalf">
+      <label for="name">Name</label>
+      <input id="name" name="name" type="text" placeholder="Nombre" required />
+    </div>
+
+    <div class="fieldhalf">
+      <label for="email">Company Email</label>
+      <input id="email" name="email" type="email" placeholder="Correo Electronico" required />
+    </div>
+
+    <div class="fieldhalf">
+      <label for="size">Company Size</label>
+      <select id="size" name="size" required>
+        <option value="50-100" selected>50–100 employees</option>
+        <option value="100-500">100–500 employees</option>
+        <option value="100-500">500–1000 employees</option>
+      </select>
+    </div>
+
+    <div class="fieldhalf">
+      <label for="subject">Subject</label>
+      <select id="subject" name="subject" required>
+        <option value="landing" selected>Building Landing pages</option>
+        <option value="ecommerce">E‑commerce Website</option>
+      </select>
+    </div>
+
+    <div class="field field-full">
+      <label for="message">Message</label>
+      <textarea id="message" name="message" rows="5" placeholder="Escribe tu mensaje aqui"></textarea>
+    </div>
+
+    <button class="btn" type="submit">Contact Sales</button>
+  </form>
+</section>
+  </main>
+</body>
+</html>
